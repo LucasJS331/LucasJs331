@@ -13,6 +13,6 @@
 </div>
   
 
-  ![Snake animation](https://github.com/LucasJs331/LucasJ331/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasJs331/LucasJs331/blob/output/github-contribution-grid-snake.svg)
    
 
