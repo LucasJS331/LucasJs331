@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasjs331&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
- <div>
-   ![Snake animation](https://github.com/LucasJs331/LucasJ331/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/LucasJs331/LucasJ331/blob/output/github-contribution-grid-snake.svg)
    
- </di>
+
