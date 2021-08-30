@@ -1,3 +1,5 @@
+ <img height="330px" width="100%" src="https://c.tenor.com/Ht2_vLSgrmoAAAAC/island-vaporwave.gif"/>
+
 ###  Hi my name is Lucas Galvão, nice to meet you! 👋🤵
 
 - 📘 I’m currently learning NodeJs and React
