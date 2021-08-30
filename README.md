@@ -1,4 +1,4 @@
- <img height="310px" width="100%" src="https://c.tenor.com/XUgZ2mGI-LwAAAAC/welcome-greet.gif" />
+ <img height="310px" width="100%" src="https://c.tenor.com/UHL8sdYTWs4AAAAC/welcome-memes.gif" />
 
 ###  Hi my name is Lucas Galvão, nice to meet you! 👋🤵
 
