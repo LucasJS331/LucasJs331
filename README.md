@@ -20,8 +20,13 @@
   <a href="https://www.linkedin.com/in/lucas-galvao-406/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ <div align="center">
   
-<div align="center"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39F729&center=true&vCenter=true&lines=My+favorite+technologies!+">
+   
+ </div>
+  
+<div align="center">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
