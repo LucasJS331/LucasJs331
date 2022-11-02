@@ -2,9 +2,9 @@
 
 ###  Hi my name is Lucas Galvão, nice to meet you! 👋🤵
 
-- 📘 I’m currently learning NodeJs and React
-- 💬 Ask me about best pratices JavaScript
-- 📫 How to reach me: lucas.galvao2710@gmail.com
+- 📘 I’m currently mastering NodeJs and React/NextJs
+- 💬 Ask me about best pratices JavaScript world
+- 📫 How to reach me: lucas.galvao111@hotmail.com
 - ⚡ Fun fact: whenever you ask if i want coffee i'll say yes
 
 <div>
